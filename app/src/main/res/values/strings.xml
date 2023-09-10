@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">languageApp</string>
+    <string name="app_name">Language App</string>
+    <string name="X_RapidAPI_Key">436c3d7c87msh09179e60dd67b2ap19221djsn09f49374d2ac</string>
+    <string name="X_RapidAPI_Host">kanjialive-api.p.rapidapi.com</string>
 </resources>
