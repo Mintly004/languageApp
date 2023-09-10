@@ -3,10 +3,11 @@ plugins {
 }
 
 android {
+    namespace 'my.edu.utar.languageapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.languageapp"
+        applicationId "my.edu.utar.languageapp"
         minSdk 24
         targetSdk 33
         versionCode 1

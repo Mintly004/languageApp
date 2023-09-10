@@ -110,10 +110,4 @@
             android:layout_margin="28dp"
             android:src="@drawable/fb_icon" />
     </LinearLayout>
-
-
-
-
-
-
 </RelativeLayout>

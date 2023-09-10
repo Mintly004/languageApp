@@ -12,7 +12,7 @@
         android:id="@+id/splashImage"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:src="penbook.jpg"
-        android:scaleType="centerCrop" />
+        android:src="@drawable/penbook"
+    android:scaleType="centerCrop" />
 
 </LinearLayout>
