@@ -10,14 +10,14 @@
     tools:context=".SignUpActivity">
 
     <EditText
-        android:id="@+id/editTextFullName"
+        android:id="@+id/signupUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Full Name"
+        android:hint="Username"
         android:inputType="text"/>
 
     <EditText
-        android:id="@+id/editTextEmail"
+        android:id="@+id/signupEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Email"
@@ -25,7 +25,7 @@
         android:layout_marginTop="8dp"/>
 
     <EditText
-        android:id="@+id/editTextPassword"
+        android:id="@+id/signupPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Password"
